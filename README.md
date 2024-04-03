@@ -9,12 +9,13 @@ Follow these steps to use the project:
 1. Clone this project using `git clone`:
 
    ```bash
-   git clone https://github.com/rull05/AnvBOT
+   git clone https://github.com/rull05/LupyBOT
    ```
 
 2. Create a `.env` file in the project directory and set the following environment variable:
 
    `BOT_NAME=your_bot`
+   `OWNERS_NUMBER=62xx`
 
 3. Install the required dependencies using pip:
 
