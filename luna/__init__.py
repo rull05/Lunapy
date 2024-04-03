@@ -8,10 +8,8 @@ from .config import (
 )
 from .core import Runner
 from .events import EventHandler
-from .ai import LunaAI
 
 __all__ = [
-    "LunaAI",
     "Runner",
     "EventHandler",
     "BaseCommand",
