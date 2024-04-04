@@ -16,4 +16,4 @@ __pycache__/
 #Session
 .data/
 scripts
-.sqlite3
+*.sqlite3
